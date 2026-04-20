@@ -1,20 +1,23 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+大家好！我是田智睿，是香港中文大学（深圳）理工学院计算机与信息工程（CIE）专业的博士研究生，有幸师从吴辰晔教授。在此之前，我于东北财经大学统计学院取得学士学位，师从王健洲教授。本科就读期间，我的加权平均成绩为92.45/100，专业排名位列统计学院第2名，并于2023年获评东北财经大学校优秀毕业生。
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+#### 电子邮箱  
+<code>zhiruitian@link.cuhk.edu.cn</code>  
+<code>tzr20010829@163.com</code>
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+#### 教育经历
+**东北财经大学**, 统计学院，经济统计学 (2019.9 – 2023.6) 
+• 主修课程: 数理统计，数据挖掘，多元回归分析, 时间序列分析等
+• 指导教师：王建州
+• GPA: 92.45/100  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**香港中文大学（深圳）**, 理工学院，计算机与信息工程 (2023.9-2027.1) 
+• 主修课程: 机器智能与应用, 深度学习, 智慧电网, 高级能源专题等
+• 指导教师：吴辰晔
+• 目前状态: Ph.D. Candidate
+• GPA：3.817/4.  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
 
-#### Research Interests  
-XX, XX, XX, XX.
+#### 研究领域
+智慧电网 · 深度学习 · 边缘 AI · 多模态学习 · 小样本学习
